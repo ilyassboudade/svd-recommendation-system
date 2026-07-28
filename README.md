@@ -1,7 +1,9 @@
 # Système de Recommandation par Décomposition en Valeurs Singulières (SVD)
 
-> **Mathématiques pour l'IA** — Travaux Pratiques / TP 
-> **Établissement :** Faculté des Sciences Ben M'Sick, Université Hassan II de Casablanca 
+> **Mathématiques pour l'IA** — Travaux Pratiques / TP
+
+> **Établissement :** Faculté des Sciences Ben M'Sick, Université Hassan II de Casablanca
+
 > **Auteurs :** Ilyass BOUDADE, Mustafa ABDELMOUMEN, Ibrahim EL MOKADDEM, Othman SEMLALI, Khaoula ZANZOUNI, Youssef DOUIBA
 
 ---
